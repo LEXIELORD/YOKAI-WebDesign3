@@ -18,6 +18,10 @@
     text-decoration: none;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .container{
     height: 100%;
     background-color: var(--color-2);
